@@ -1,0 +1,10 @@
+{
+    "entities": [
+        {
+            "type" : "switch",
+            "x" : 4,
+            "y" : 1
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

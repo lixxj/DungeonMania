@@ -1,0 +1,15 @@
+{
+    "entities" : [
+        {
+            "type" : "zombie_toast_spawner",
+            "x" : 4,
+            "y" : 4
+        },
+        {
+            "type" : "wall",
+            "x" : 4,
+            "y" : 3
+        }
+    ],
+    "goal-condition" : {"goal" : "exit"}
+}

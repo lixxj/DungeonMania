@@ -1,0 +1,10 @@
+{
+    "entities" : [
+        {
+            "type" : "zombie_toast_spawner",
+            "x" : 0,
+            "y" : 0
+        }
+    ],
+    "goal-condition" : {"goal" : "exit"}
+}

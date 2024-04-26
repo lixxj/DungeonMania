@@ -1,0 +1,26 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 5,
+            "y" : 4
+        }, {
+            "type" : "mercenary",
+            "x" : 5,
+            "y" : 10
+        }, {
+            "type" : "mercenary",
+            "x" : 9,
+            "y" : 4
+        }, {
+            "type" : "mercenary",
+            "x" : 1,
+            "y" : 1
+        }, {
+            "type" : "wall",
+            "x" : 5,
+            "y" : 5
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}

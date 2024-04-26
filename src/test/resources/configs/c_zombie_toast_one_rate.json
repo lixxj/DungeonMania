@@ -1,0 +1,8 @@
+{
+    "zombie_health" : 1,
+    "zombie_attack" : 1,
+    "spider_health" : 1,
+    "spider_attack" : 1,
+    "spider_spawn_rate" : 0,
+    "zombie_spawn_rate" : 1
+}
